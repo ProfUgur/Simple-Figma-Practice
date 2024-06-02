@@ -1,7 +1,7 @@
 # Simple-Figma-Practice
 
 Hello, here you can see the visual design work of a simple mobile application requested from me by one of my teachers. 
-(NOTE: The free version of Figma was used when designing this application. Therefore, there is no advanced functionality for the pages.)
+(NOTE: The free version of Figma was used when designing this application. In conclusion, there is no advanced functionality for the pages.)
 
 The demands made from us were as follows:
 - The application belongs to a cookie company
