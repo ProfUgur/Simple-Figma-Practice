@@ -19,6 +19,6 @@ I put a few images of the application here.
 
 ![buying_page](https://github.com/ProfUgur/Simple-Figma-Practice/assets/148859613/fc75ac34-9624-4d4c-bc1d-56041a62dc67)
 
-I leave here the presentation link of the application I designed in accordance with the demands. If you click on the "Fit to Screen" button using the "Options" at the top right of the page that opens, you can get the appropriate size view.
+I leave here the presentation link of the application I designed in accordance with the demands. If you click on the "Fit to Screen" button using the "Options" at the top right of the page that opens, you can get the appropriate size view. Thanks.
 
 https://www.figma.com/proto/V2CLAwIJfmE1HNjqo7BWIv/Kurabiye?t=ivh5adbtF3npGwPM-0&scaling=scale-down&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&show-proto-sidebar=1
