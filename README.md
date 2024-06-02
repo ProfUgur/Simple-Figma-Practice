@@ -10,6 +10,7 @@ The demands made from us were as follows:
 - There is no slogan of the company
 - The application should be simple and consist of a few pages
 - Color and design preferences are entirely up to me
+- Application language is Turkish
 
 I put a few images of the application here.
 
